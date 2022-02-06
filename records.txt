@@ -1,0 +1,1 @@
+Ivan : 100|Igor : 55|Lena : 75
