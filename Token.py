@@ -1,4 +1,0 @@
-TOKEN = "5272091661:AAHUp1cbNqlSKsfYNt0QI5MHwnynNRGkUGY"
-
-api_key_weather = "cb3b73933b8d920c13d719cee3f5a916"
-
